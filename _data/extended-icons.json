@@ -16,6 +16,11 @@
             "source": "https://de.wikipedia.org/wiki/Hamburg_Wasser#/media/Datei:Hamburg_Wasser_logo.svg"
         },
         {
+            "title": "HAW Hamburg",
+            "hex": "003CA0",
+            "source": "https://www.haw-hamburg.de/typo3conf/ext/mpm_bootstrap/Resources/Public/Images/HAW_Marke_weiss_RGB.svg"
+        },
+        {
             "title": "VILSA",
             "hex": "0C397A",
             "source": "https://de.wikipedia.org/wiki/Vilsa-Brunnen#/media/Datei:Vilsa-Brunnen_logo.svg"
